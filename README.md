@@ -21,4 +21,5 @@ img_flip.save(output_image)
 3. 使い方
 3.1. 実行例
 3,2. 出力結果
- 
+
+![AAA](./input.jpg)
