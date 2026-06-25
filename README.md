@@ -19,7 +19,9 @@ img_flip = img.transpose(Image.FLIP_LEFT_RIGHT)
 img_flip.save(output_image)
 ```
 3. 使い方
+   
 3.1. 実行例
+
 3,2. 出力結果
 
 |入力画像(input.jpg)|出力画像(output.jpg)|
