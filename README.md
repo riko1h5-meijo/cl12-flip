@@ -1,9 +1,9 @@
 # タイトル行
 
-1. 概要
+## 1. 概要
 説明文説明文説明文説明文説明文説明文
 
-2. ソースコード
+## 2. ソースコード
 ```python
 from PIL import Image
 import sys
@@ -18,14 +18,14 @@ img_flip = img.transpose(Image.FLIP_LEFT_RIGHT)
 
 img_flip.save(output_image)
 ```
-3. 使い方
+## 3. 使い方
    
-3.1. 実行例
+### 3.1. 実行例
 
-3,2. 出力結果
-
-|入力画像(input.jpg)|出力画像(output.jpg)|
-|:----:|:----:|
-|![AAA](./input.jpg)|![AAA](./output.jpg)|
+### 3,2. 出力結果
+- aaaa
+   |入力画像(input.jpg)|出力画像(output.jpg)|
+   |:----:|:----:|
+   |![AAA](./input.jpg)|![AAA](./output.jpg)|
 
 
